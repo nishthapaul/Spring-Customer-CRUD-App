@@ -10,3 +10,5 @@ Add a new customer
 
 Apply a search button
 ![p3](https://user-images.githubusercontent.com/33231250/89522504-f7f64b80-d7fe-11ea-8604-f39a09590e1e.PNG)
+
+AOP AspectJ is used for the logging purpose
